@@ -1,0 +1,2 @@
+puts_function函数实现所出现的问题：
+	puts_function在root用户创建的文件没有办法写。
