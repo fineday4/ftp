@@ -1,0 +1,30 @@
+#pragma once
+
+#include <cctype>
+#include <string>
+#include <vector>
+#include <typeinfo>
+#include <stdexcept>
+#include <map>
+#include <set>
+#include <sstream>
+#include <iostream>
+#include <memory>
+#include <fstream>
+#include <algorithm>
+#include <utility>
+#include <initializer_list>
+#include <cstring>
+#include <stdexcept>
+
+using std::vector;
+using std::map;
+using std::string;
+using std::set;
+using std::stringstream;
+using std::shared_ptr;
+using std::ifstream;
+using std::cout;
+using std::endl;
+using std::allocator;
+using std::ostream;
